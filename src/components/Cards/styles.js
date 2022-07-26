@@ -85,5 +85,6 @@ export const Card = styled.div`
     flex-direction: column;
     width: 100%;
     align-items: center;
+    margin-bottom: 2rem;
   }
 `;
